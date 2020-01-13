@@ -3,6 +3,9 @@
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
+# CI
+[![Build Status](https://dev.azure.com/CoryWork/JavascriptPipeline/_apis/build/status/CoryJ34.pipelines-javascript?branchName=master)](https://dev.azure.com/CoryWork/JavascriptPipeline/_build/latest?definitionId=5&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
